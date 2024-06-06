@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "eacl-miniconf"
+name = "acl-miniconf"
 version = "0.1.0"
 description = ""
-authors = ["EntilZha <me@pedro.ai>"]
+authors = ["EntilZha <me@pedro.ai>", "Gaël Guibon <gael.guibon@loria.fr"]
 readme = "README.md"
-packages = [{ include = "eacl_miniconf" }]
+packages = [{ include = "acl_miniconf" }]
 
 [tool.poetry.dependencies]
 python = "^3.9"

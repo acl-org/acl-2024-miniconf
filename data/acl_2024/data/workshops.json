@@ -1,0 +1,2922 @@
+{
+    "The_11th_Workshop_on_Argument_Mining": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Yamen Ajjour",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Leibniz University Hannover",
+                "mail": null
+            },
+            {
+                "first_name": null,
+                "full_name": "Roy Bar-Haim",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "IBM Research",
+                "mail": null
+            },
+            {
+                "first_name": null,
+                "full_name": "Roxanne El Baff",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "German Aerospace Center (DLR) and Bauhaus-Universit\u00e4t",
+                "mail": null
+            },
+            {
+                "first_name": null,
+                "full_name": "Zhexiong Liu",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Pittsburgh",
+                "mail": null
+            },
+            {
+                "first_name": null,
+                "full_name": "Gabriella Skitalinskaya",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Leibniz University Hannover",
+                "mail": null
+            }
+        ],
+        "description": "The 11th Workshop on Argument Mining",
+        "end_time": null,
+        "id": "The_11th_Workshop_on_Argument_Mining",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_11th_Workshop_on_Argument_Mining",
+        "short_name": "The_11th_Workshop_on_Argument_Mining",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://argmining-org.github.io/2024/",
+        "location": "TBA"
+    },
+    "The_Sixth_Workshop_on_Teaching_Natural_Language_Processing": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Margot Mieskes",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Applied Sciences Darmstadt",
+                "mail": "margot.mieskes@h-da.de"
+            },
+            {
+                "first_name": null,
+                "full_name": "Leonie Weissweiler",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "LMU Munich ",
+                "mail": "weissweiler@cis.lmu.de"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ana Marasovic",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Utah",
+                "mail": "ana.marasovic@utah.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Leena Mathur",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Carnegie Mellon University",
+                "mail": "lmathur@andrew.cmu.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Gy\u00f6rgy Kov\u00e1cs",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Lule\u00e5 University of Technology",
+                "mail": "gyorgy.kovacs@ltu.se"
+            },
+            {
+                "first_name": null,
+                "full_name": "Sana al-Azzawi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Lule\u00e5 University of Technology",
+                "mail": "sana.al-azzawi@ltu.se"
+            },
+            {
+                "first_name": null,
+                "full_name": "Laura Biester",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Middlebury College",
+                "mail": "lbiester@middlebury.edu"
+            }
+        ],
+        "description": "The Sixth Workshop on Teaching Natural Language Processing",
+        "end_time": null,
+        "id": "The_Sixth_Workshop_on_Teaching_Natural_Language_Processing",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_Sixth_Workshop_on_Teaching_Natural_Language_Processing",
+        "short_name": "The_Sixth_Workshop_on_Teaching_Natural_Language_Processing",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": null,
+        "location": "TBA"
+    },
+    "The_5th_International_Workshop_on_Computational_Approaches_to_Historical_Language_Change": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Nina Tahmasebi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Gothenburg",
+                "mail": "nina.tahmasebi@gu.se"
+            },
+            {
+                "first_name": null,
+                "full_name": "Syrielle Montariol,EPFL",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "syrielle.montariol@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Haim Dubossarsky",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Queen Mary University London",
+                "mail": "h.dubossarsky@qmul.ac.uk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Andrey Kutuzov",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Oslo",
+                "mail": "andreku@ifi.uio.no"
+            },
+            {
+                "first_name": null,
+                "full_name": "Pierluigi Cassotti",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Bari",
+                "mail": "pierluigi.cassotti@uniba.it"
+            },
+            {
+                "first_name": null,
+                "full_name": "Francesco Periti",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Milan",
+                "mail": "francesco.periti@unimi.it"
+            },
+            {
+                "first_name": null,
+                "full_name": "David Alfter",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Gothenburg",
+                "mail": "david.alfter@svenska.gu.se"
+            },
+            {
+                "first_name": null,
+                "full_name": "Simon Hengchen",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Iguanodon.ai",
+                "mail": "simon.hengchen@gu.se"
+            }
+        ],
+        "description": "The 5th International Workshop on Computational Approaches to Historical Language Change",
+        "end_time": null,
+        "id": "The_5th_International_Workshop_on_Computational_Approaches_to_Historical_Language_Change",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_5th_International_Workshop_on_Computational_Approaches_to_Historical_Language_Change",
+        "short_name": "The_5th_International_Workshop_on_Computational_Approaches_to_Historical_Language_Change",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://www.changeiskey.org/event/2024-acl-lchange/",
+        "location": "TBA"
+    },
+    "The_Fifth_Workshop_on_Privacy_in_NLP": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Oluwaseyi Feyisetan",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Amazon",
+                "mail": "sey@amazon.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Sepideh Ghanavati",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Maine",
+                "mail": "sepideh.ghanavati@maine.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ivan Habernal",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Paderborn University",
+                "mail": "ivan.habernal@uni-paderborn.de"
+            },
+            {
+                "first_name": null,
+                "full_name": "Fatemehsadat Mireshghallah",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Washington",
+                "mail": "niloofar@cs.washington.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Patricia Thaine",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Private AI",
+                "mail": "patricia@private-ai.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Abhilasha Ravichander",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Allen Institute for Artificial Intelligence",
+                "mail": "abhilashar@allenai.org"
+            }
+        ],
+        "description": "The Fifth Workshop on Privacy in NLP",
+        "end_time": null,
+        "id": "The_Fifth_Workshop_on_Privacy_in_NLP",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_Fifth_Workshop_on_Privacy_in_NLP",
+        "short_name": "The_Fifth_Workshop_on_Privacy_in_NLP",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://sites.google.com/view/privatenlp/",
+        "location": "TBA"
+    },
+    "Natural_Language_Reasoning_and_Structured_Explanations": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Bhavana Dalvi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "AI2",
+                "mail": "bhavanad@allenai.org"
+            },
+            {
+                "first_name": null,
+                "full_name": "Greg Durrett",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UT Austin",
+                "mail": "gdurrett@cs.utexas.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Peter Jansen",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UArizona",
+                "mail": "pajansen@arizona.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Danilo Ribeiro",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Amazon",
+                "mail": "danilrib@amazon.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Lio Wong",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "MIT",
+                "mail": "zyzzyva@mit.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Xi Ye",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UT Austin",
+                "mail": "xiye@cs.utexas.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Wenting Zhao",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Cornell",
+                "mail": "wzhao@cs.cornell.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ben Lipkin",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "MIT",
+                "mail": "lipkinb@mit.edu"
+            }
+        ],
+        "description": "Natural Language Reasoning and Structured Explanations",
+        "end_time": null,
+        "id": "Natural_Language_Reasoning_and_Structured_Explanations",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Natural_Language_Reasoning_and_Structured_Explanations",
+        "short_name": "Natural_Language_Reasoning_and_Structured_Explanations",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://nl-reasoning-workshop.github.io/",
+        "location": "TBA"
+    },
+    "Cognitive_Modeling_and_Computational_Linguistics": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Tatsuki Kuribayashi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "MBZUAI",
+                "mail": "tatsuki.kuribayashi@mbzuai.ac.ae"
+            },
+            {
+                "first_name": null,
+                "full_name": "Giulia Rambelli",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Bologna",
+                "mail": "giulia.rambelli4@unibo.it"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ece Takmaz",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Amsterdam",
+                "mail": "ece.takmaz@uva.nl"
+            },
+            {
+                "first_name": null,
+                "full_name": "Yohei Oseki",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Tokyo",
+                "mail": "oseki@g.ecc.u-tokyo.ac.jp"
+            },
+            {
+                "first_name": null,
+                "full_name": "Philipp Wicke",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Ludwig Maximilian University",
+                "mail": "pwicke@cis.uni-muenchen.de"
+            }
+        ],
+        "description": "Cognitive Modeling and Computational Linguistics",
+        "end_time": null,
+        "id": "Cognitive_Modeling_and_Computational_Linguistics",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Cognitive_Modeling_and_Computational_Linguistics",
+        "short_name": "Cognitive_Modeling_and_Computational_Linguistics",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://cmclorg.github.io/",
+        "location": "TBA"
+    },
+    "ML4AL:_The_Machine_Learning_for_Ancient_Languages_Workshop": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "John Pavlopoulos",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Athens University of Economics and Business",
+                "mail": "annis@aueb.gr"
+            },
+            {
+                "first_name": null,
+                "full_name": "Thea Sommerschield",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Ca\u2019Foscari University of Venice",
+                "mail": "thea.sommerschield@unive.it"
+            },
+            {
+                "first_name": null,
+                "full_name": "Yannis Assael",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Google DeepMind",
+                "mail": "assael@google.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Marco Passarotti",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Universit\u00e0 Cattolica del Sacro Cuore",
+                "mail": "marco.passarotti@unicatt.it"
+            },
+            {
+                "first_name": null,
+                "full_name": "Rachele Sprugnoli",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Universit\u00e0 di Parma",
+                "mail": "rachele.sprugnoli@unipr.it"
+            },
+            {
+                "first_name": null,
+                "full_name": "Yudong Liu",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Western Washington University",
+                "mail": "liuy2@wwu.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Bin Li",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Nanjing Normal University",
+                "mail": "lib@nlp.nju.edu.cn"
+            },
+            {
+                "first_name": null,
+                "full_name": "Shai Gordon",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Ariel University",
+                "mail": "shaigo@ariel.ac.il"
+            },
+            {
+                "first_name": null,
+                "full_name": "Adam Anderson",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of California",
+                "mail": "adamganderson@gmail.com"
+            }
+        ],
+        "description": "ML4AL: The Machine Learning for Ancient Languages Workshop",
+        "end_time": null,
+        "id": "ML4AL:_The_Machine_Learning_for_Ancient_Languages_Workshop",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "ML4AL:_The_Machine_Learning_for_Ancient_Languages_Workshop",
+        "short_name": "ML4AL:_The_Machine_Learning_for_Ancient_Languages_Workshop",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://www.ml4al.com",
+        "location": "TBA"
+    },
+    "TextGraphs-17:_Graph-based_Methods_for_Natural_Language_Processing": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Dmitry Ustalov",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "JetBrains",
+                "mail": "dmitry.ustalov@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Arti Ramesh",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Educational Testing Services",
+                "mail": "aramesh001@ets.org"
+            },
+            {
+                "first_name": null,
+                "full_name": "Alexander Panchenko",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Skoltech",
+                "mail": "panchenko.alexander@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Yanjun Gao",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Wisconsin-Madison",
+                "mail": "ygao@medicine.wisc.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Irina Nikishina",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Hamburg",
+                "mail": "irina.nikishina@uni-hamburg.de"
+            },
+            {
+                "first_name": null,
+                "full_name": "Andrey Sakhovskiy",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Skoltech",
+                "mail": "andrey.sakhovskiy@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Elena Tutubalina",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Artificial Intelligence Research Institute",
+                "mail": "tutubalinaev@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Gerald Penn",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Toronto",
+                "mail": "gpenn@cs.toronto.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Marco Valentino",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Idiap Research Institute",
+                "mail": "marco.valentino@idiap.ch"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ricardo Usbeck",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Hamburg",
+                "mail": "ricardo.usbeck@uni-hamburg.de"
+            }
+        ],
+        "description": "TextGraphs-17: Graph-based Methods for Natural Language Processing",
+        "end_time": null,
+        "id": "TextGraphs-17:_Graph-based_Methods_for_Natural_Language_Processing",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "TextGraphs-17:_Graph-based_Methods_for_Natural_Language_Processing",
+        "short_name": "TextGraphs-17:_Graph-based_Methods_for_Natural_Language_Processing",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://sites.google.com/view/textgraphs2024",
+        "location": "TBA"
+    },
+    "KaLLM:_Knowledge_Graphs_and_Large_Language_Models": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Russa Biswas",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Hasso Plattner Institute",
+                "mail": "russa.biswas@hpi.de"
+            },
+            {
+                "first_name": null,
+                "full_name": "Lucie-Ami\u00e9e Kaffee",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Hasso Plattner Institute",
+                "mail": "Lucie-Aimee.Kaffee@hpi.de"
+            },
+            {
+                "first_name": null,
+                "full_name": "Oshin Agarwal",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Bloomberg",
+                "mail": "oagarwal3@bloomberg.net"
+            },
+            {
+                "first_name": null,
+                "full_name": "Pasquale Minervini",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Edinburgh",
+                "mail": "p.minervini@ed.ac.uk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Sameer Singh",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of California",
+                "mail": "sameer@uci.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Gerard de Melo",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Hasso Plattner Institute",
+                "mail": "demelo@uni-potsdam.de"
+            }
+        ],
+        "description": "KaLLM: Knowledge Graphs and Large Language Models",
+        "end_time": null,
+        "id": "KaLLM:_Knowledge_Graphs_and_Large_Language_Models",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "KaLLM:_Knowledge_Graphs_and_Large_Language_Models",
+        "short_name": "KaLLM:_Knowledge_Graphs_and_Large_Language_Models",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": null,
+        "location": "TBA"
+    },
+    "Language_+_Molecules": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Heng Ji",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UIUC & Amazon Scholar",
+                "mail": "hengji@illinois.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Carl Edwards",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UIUC",
+                "mail": "cne2@illinois.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Tom Hope",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "AI2 HUJI",
+                "mail": "tomh@allenai.org"
+            },
+            {
+                "first_name": null,
+                "full_name": "Manling Li",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Stanford Northwestern",
+                "mail": "manlingl@stanford.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Qingyun Wang",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UIUC",
+                "mail": "qingyun4@illinois.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Lawrence Zhao",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Yale",
+                "mail": "larry.zhao@yale.edu"
+            }
+        ],
+        "description": "Language + Molecules",
+        "end_time": null,
+        "id": "Language_+_Molecules",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Language_+_Molecules",
+        "short_name": "Language_+_Molecules",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://language-plus-molecules.github.io/",
+        "location": "TBA"
+    },
+    "The_Seventh_Workshop_on_Technologies_for_Machine_Translation_of_Low_Resource_Languages": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Atul Kr. Ojha",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Galway",
+                "mail": "shashwatup9k@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Chao-Hong Liu",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Potamu Research",
+                "mail": "ch.liu@acm.org"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ekaterina Vylomova",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Melbourne",
+                "mail": "ekaterina.vylomova@unimelb.edu.au"
+            },
+            {
+                "first_name": null,
+                "full_name": "Jonathan Washington",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Swarthmore College",
+                "mail": "jonathan.washington@swarthmore.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Nathaniel Oco",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "National University (Philippines)",
+                "mail": "nathanoco@yahoo.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Valentin Malykh",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "MTS AI",
+                "mail": "valentin.malykh@phystech.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Xiaobing Zhao",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Minzu University of China",
+                "mail": "nmzxb_cn@163.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Tommi A Pirinen",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Hamburg",
+                "mail": "tommi.pirinen@uit.no"
+            },
+            {
+                "first_name": null,
+                "full_name": "Varvara Logacheva",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Huawei",
+                "mail": "varvara.logacheva@gmail.com"
+            }
+        ],
+        "description": "The Seventh Workshop on Technologies for Machine Translation of Low Resource Languages",
+        "end_time": null,
+        "id": "The_Seventh_Workshop_on_Technologies_for_Machine_Translation_of_Low_Resource_Languages",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_Seventh_Workshop_on_Technologies_for_Machine_Translation_of_Low_Resource_Languages",
+        "short_name": "The_Seventh_Workshop_on_Technologies_for_Machine_Translation_of_Low_Resource_Languages",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://sites.google.com/view/loresmt/",
+        "location": "TBA"
+    },
+    "The_9th_Social_Media_Mining_for_Health_Research_and_Applications_Workshop_and_Shared_Tasks": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Graciela Gonzalez-Hernandez",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Cedars-Sinai Medical Center",
+                "mail": "graciela.gonzalezhernandez@csmc.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Dongfang Xu",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Cedars-Sinai Medical Center",
+                "mail": "dongfang.xu@cshs.org"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ari Z. Klein",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Pennsylvania",
+                "mail": "ariklein@pennmedicine.upenn.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Karen O'Connor",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Pennsylvania",
+                "mail": "karoc@pennmedicine.upenn.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Juan Banda",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Georgia State University",
+                "mail": "jbanda@gsu.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Pierre Zweigenbaum",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Universit\u00e9 Paris-Saclay",
+                "mail": "pz@lisn.fr"
+            },
+            {
+                "first_name": null,
+                "full_name": "Abeed Sarker",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Emory University",
+                "mail": "abeed.sarker@emory.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Davy Weissenbacher",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Cedars-Sinai Medical Center",
+                "mail": "Davy.Weissenbacher@cshs.org"
+            }
+        ],
+        "description": "The 9th Social Media Mining for Health Research and Applications Workshop and Shared Tasks",
+        "end_time": null,
+        "id": "The_9th_Social_Media_Mining_for_Health_Research_and_Applications_Workshop_and_Shared_Tasks",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_9th_Social_Media_Mining_for_Health_Research_and_Applications_Workshop_and_Shared_Tasks",
+        "short_name": "The_9th_Social_Media_Mining_for_Health_Research_and_Applications_Workshop_and_Shared_Tasks",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://healthlanguageprocessing.org/smm4h-2024/",
+        "location": "TBA"
+    },
+    "Human-Centered_Large_Language_Modeling_Workshop": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Nikita Soni",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Stony Brook University",
+                "mail": "nisoni@cs.stonybrook.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Lucie Flek",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Bonn",
+                "mail": "flek@bit.uni-bonn.de"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ashish Sharma",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Washington",
+                "mail": "ashshar@cs.washington.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Diyi Yang",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Stanford University",
+                "mail": "diyiy@cs.stanford.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Sara Hooker",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Cohere",
+                "mail": "sarahooker@cohere.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Andrew Schwartz",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Stony Brook University",
+                "mail": "has@cs.stonybrook.edu"
+            }
+        ],
+        "description": "Human-Centered Large Language Modeling Workshop",
+        "end_time": null,
+        "id": "Human-Centered_Large_Language_Modeling_Workshop",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Human-Centered_Large_Language_Modeling_Workshop",
+        "short_name": "Human-Centered_Large_Language_Modeling_Workshop",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://hucllm-workshop.github.io/",
+        "location": "TBA"
+    },
+    "The_14th_Workshop_on_Computational_Approaches_to_Subjectivity,_Sentiment_&_Social_Media_Analysis": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Orph\u00e9e De Clercq",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "LT3 Ghent University",
+                "mail": "orphee.declercq@ugent.be"
+            },
+            {
+                "first_name": null,
+                "full_name": "Valentin Barriere",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Universidad de Chile",
+                "mail": "valentin.barriere@cenia.cl"
+            },
+            {
+                "first_name": null,
+                "full_name": "Jeremy Barnes",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of the Basque Country UPV/EHU",
+                "mail": "jeremy.barnes@ehu.eus"
+            },
+            {
+                "first_name": null,
+                "full_name": "Roman Klinger",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Stuttgart",
+                "mail": "roman.klinger@ims.uni-stuttgart.de"
+            },
+            {
+                "first_name": null,
+                "full_name": "Jo\u00e3o Sedoc",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "New York University",
+                "mail": "joao.sedoc@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Shabnam Tafreshi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Maryland",
+                "mail": "stafresh@umd.edu"
+            }
+        ],
+        "description": "The 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis",
+        "end_time": null,
+        "id": "The_14th_Workshop_on_Computational_Approaches_to_Subjectivity,_Sentiment_&_Social_Media_Analysis",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_14th_Workshop_on_Computational_Approaches_to_Subjectivity,_Sentiment_&_Social_Media_Analysis",
+        "short_name": "The_14th_Workshop_on_Computational_Approaches_to_Subjectivity,_Sentiment_&_Social_Media_Analysis",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://workshop-wassa.github.io/",
+        "location": "TBA"
+    },
+    "The_9th_Workshop_on_Representation_Learning_for_NLP": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Pepa Atanasova",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Copenhagen ",
+                "mail": "pepa@di.ku.dk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Maha Elbayad",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Meta ",
+                "mail": "elbayadm@meta.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Seraphina Goldfarb-Tarrant",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "seraphinatarrant@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Peter Hase",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UNC ",
+                "mail": "peter@cs.unc.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Arian Hosseini",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "MILA ",
+                "mail": "arian.hosseini9@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Marius Mosbach",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Saarland University ",
+                "mail": "mmosbach@lsv.uni-saarland.de"
+            },
+            {
+                "first_name": null,
+                "full_name": "Maximilian Mozes",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UCL ",
+                "mail": "maximilian.mozes.18@ucl.ac.uk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Sandro Pezzelle",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Amsterdam ",
+                "mail": "s.pezzelle@uva.nl"
+            },
+            {
+                "first_name": null,
+                "full_name": "Chen Zhao",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "NYU",
+                "mail": "chenz1285@nyu.edu"
+            }
+        ],
+        "description": "The 9th Workshop on Representation Learning for NLP",
+        "end_time": null,
+        "id": "The_9th_Workshop_on_Representation_Learning_for_NLP",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_9th_Workshop_on_Representation_Learning_for_NLP",
+        "short_name": "The_9th_Workshop_on_Representation_Learning_for_NLP",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://sites.google.com/view/repl4nlp2024",
+        "location": "TBA"
+    },
+    "The_1st_Annual_Meeting_of_the_Special_Interest_Group_on_Turkic_Languages": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "DUYGU ATAMAN",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "NYU",
+                "mail": "ataman@nyu.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "DENIZ ZEYREK",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "METU",
+                "mail": "dezeyrek@metu.edu.tr"
+            },
+            {
+                "first_name": null,
+                "full_name": "JONNE SALEVA",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "BRANDEIS UNI.",
+                "mail": "jonnesaleva@brandeis.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "SARDANA IVANOVA",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UNI. OF HELSINKI",
+                "mail": "sardana.ivanova@helsinki.fi"
+            },
+            {
+                "first_name": null,
+                "full_name": "MEHMET OGUZ DERIN",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "mehmetoguzderin@mehmetoguzderin.com"
+            }
+        ],
+        "description": "The 1st Annual Meeting of the Special Interest Group on Turkic Languages",
+        "end_time": null,
+        "id": "The_1st_Annual_Meeting_of_the_Special_Interest_Group_on_Turkic_Languages",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_1st_Annual_Meeting_of_the_Special_Interest_Group_on_Turkic_Languages",
+        "short_name": "The_1st_Annual_Meeting_of_the_Special_Interest_Group_on_Turkic_Languages",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://sigturk.com/workshop",
+        "location": "TBA"
+    },
+    "Workshop_on_Knowledge-Augmented_Methods_for_Natural_Language_Processing": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Wenhao Yu",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Notre Dame",
+                "mail": "wyu1@nd.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Weijia Shi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Washington",
+                "mail": "swj0419@uw.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Michihiro Yasunaga",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Stanford University",
+                "mail": "myasu@cs.stanford.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Chenguang Zhu",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Zoom AI",
+                "mail": "zcg.cs60@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Meng Jiang",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Notre Dame",
+                "mail": "mjiang2@nd.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Hannaneh Hajishirzi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Washington",
+                "mail": "hannaneh@cs.washington.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Luke Zettlemoyer",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Washington",
+                "mail": "lsz@cs.washington.edu"
+            }
+        ],
+        "description": "Workshop on Knowledge-Augmented Methods for Natural Language Processing",
+        "end_time": null,
+        "id": "Workshop_on_Knowledge-Augmented_Methods_for_Natural_Language_Processing",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Workshop_on_Knowledge-Augmented_Methods_for_Natural_Language_Processing",
+        "short_name": "Workshop_on_Knowledge-Augmented_Methods_for_Natural_Language_Processing",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": null,
+        "location": "TBA"
+    },
+    "BioNLP_2024_and_Shared_Tasks": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Dina Demner-Fushman",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "NLM",
+                "mail": "ddemner@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Sophia Ananiadou",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "The University of Manchester ",
+                "mail": "sophia.ananiadou@manchester.ac.uk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Kirk Roberts",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UTHealth  ",
+                "mail": "Kirk.Roberts@uth.tmc.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Makoto Miwa",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Toyota Technological Institute ",
+                "mail": "makoto-miwa@toyota-ti.ac.jp"
+            },
+            {
+                "first_name": null,
+                "full_name": "Jun'ichi Tsujii",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "AIST",
+                "mail": "j-tsujii@aist.go.jp"
+            }
+        ],
+        "description": "BioNLP 2024 and Shared Tasks",
+        "end_time": null,
+        "id": "BioNLP_2024_and_Shared_Tasks",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "BioNLP_2024_and_Shared_Tasks",
+        "short_name": "BioNLP_2024_and_Shared_Tasks",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://aclweb.org/aclwiki/BioNLP_Workshop",
+        "location": "TBA"
+    },
+    "Workshop_on_Data_Contamination": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Oscar Sainz",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of the Basque Country ](UPV/EHU)",
+                "mail": "oscar.sainz@ehu.eus"
+            },
+            {
+                "first_name": null,
+                "full_name": "Iker Garc\u00eda Ferrero",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of the Basque Country ](UPV/EHU)",
+                "mail": "iker.garciaf@ehu.eus"
+            },
+            {
+                "first_name": null,
+                "full_name": "Eneko Agirre",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of the Basque Country ](UPV/EHU)",
+                "mail": "e.agirre@ehu.eus"
+            },
+            {
+                "first_name": null,
+                "full_name": "Jon Ander Campos",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Cohere",
+                "mail": "jonander@cohere.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Alon Jacovi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Bar Ilan University",
+                "mail": "alonjacovi@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Yoav Goldberg",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Bar Ilan University and the Allen Institute for Artificial Intelligence",
+                "mail": "yoav.goldberg@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Yanai Elazar",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Allen Institute for Artificial Intelligence and University of Washington",
+                "mail": "yanaiela@gmail.com"
+            }
+        ],
+        "description": "Workshop on Data Contamination",
+        "end_time": null,
+        "id": "Workshop_on_Data_Contamination",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Workshop_on_Data_Contamination",
+        "short_name": "Workshop_on_Data_Contamination",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://conda-workshop.github.io/",
+        "location": "TBA"
+    },
+    "SpLU-RoboNLP:_Combined_Workshop_on_Spatial_Language_Understanding_and_Grounded_Communication_for_Robotics": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Parisa Kordjamshidi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Michigan State University",
+                "mail": "kordjams@msu.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Malihe Alikhani",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Northeastern University",
+                "mail": "m.alikhani@northeastern.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Xin Eric Wang",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": " UC Santa Cruz",
+                "mail": "xwang366@ucsc.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Yue Zhang",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Michigan State University",
+                "mail": "zhan1624@msu.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ziqiao Ma",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Michigan",
+                "mail": "marstin@umich.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Mert \u0130nan",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Northeastern University",
+                "mail": "inan.m@northeastern.edu"
+            }
+        ],
+        "description": "SpLU-RoboNLP: Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics",
+        "end_time": null,
+        "id": "SpLU-RoboNLP:_Combined_Workshop_on_Spatial_Language_Understanding_and_Grounded_Communication_for_Robotics",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "SpLU-RoboNLP:_Combined_Workshop_on_Spatial_Language_Understanding_and_Grounded_Communication_for_Robotics",
+        "short_name": "SpLU-RoboNLP:_Combined_Workshop_on_Spatial_Language_Understanding_and_Grounded_Communication_for_Robotics",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://splu-robonlp-2024.github.io",
+        "location": "TBA"
+    },
+    "Workshop_on_Gender_Bias_in_Natural_Language_Processing": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Christine Basta",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "christine.raouf88@gmail.com,Alexandria University"
+            },
+            {
+                "first_name": null,
+                "full_name": "Debora Nozza",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Bocconi University",
+                "mail": "debora.nozza@unibocconi.it"
+            },
+            {
+                "first_name": null,
+                "full_name": "Agnieszka Fale\u0144ska",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Stuttgart",
+                "mail": "agnieszka.falenska@ims.uni-stuttgart.de"
+            },
+            {
+                "first_name": null,
+                "full_name": "Seraphina Goldfarb-Tarrant",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Cohere",
+                "mail": "seraphinatarrant@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Marta R. Costa-juss\u00e0",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Meta AI",
+                "mail": "costajussa@meta.com"
+            }
+        ],
+        "description": "Workshop on Gender Bias in Natural Language Processing",
+        "end_time": null,
+        "id": "Workshop_on_Gender_Bias_in_Natural_Language_Processing",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Workshop_on_Gender_Bias_in_Natural_Language_Processing",
+        "short_name": "Workshop_on_Gender_Bias_in_Natural_Language_Processing",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://genderbiasnlp.talp.cat/",
+        "location": "TBA"
+    },
+    "Cross-Cultural_Considerations_in_NLP": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Vinodkumar Prabhakaran",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Google",
+                "mail": "vinodkpg@google.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Sunipa Dev",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Google",
+                "mail": "sunipadev@google.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Luciana Benotti",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UNC",
+                "mail": "luciana.benotti@unc.edu.ar"
+            },
+            {
+                "first_name": null,
+                "full_name": "Daniel Hershcovich",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Copenhagen",
+                "mail": "dh@di.ku.dk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Laura Piqueras",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "U Copenhagen",
+                "mail": "lcp@di.ku.dk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Li Zhou",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UESTC",
+                "mail": "li_zhou@std.uestc.edu.cn"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ife Adebara",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UBC",
+                "mail": "ife.adebara@ubc.ca"
+            },
+            {
+                "first_name": null,
+                "full_name": "Yong Cao",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "HUST",
+                "mail": "yongcao_epic@hust.edu.cn"
+            }
+        ],
+        "description": "Cross-Cultural Considerations in NLP",
+        "end_time": null,
+        "id": "Cross-Cultural_Considerations_in_NLP",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Cross-Cultural_Considerations_in_NLP",
+        "short_name": "Cross-Cultural_Considerations_in_NLP",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://sites.google.com/view/c3nlp",
+        "location": "TBA"
+    },
+    "The_4th_Workshop_on_Scholarly_Document_Processing": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Tirthankar Ghosal",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "ghosalt@ornl.gov"
+            },
+            {
+                "first_name": null,
+                "full_name": "Philipp Mayr",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "philipp.mayr@gesis.org"
+            },
+            {
+                "first_name": null,
+                "full_name": "Anita de Waard",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "a.dewaard@elsevier.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Aakanksha Naik",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "aakankshan@allenai.org"
+            },
+            {
+                "first_name": null,
+                "full_name": "Shannon Shen",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "zejiangshen@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Amanpreet Singh",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "amanpreets@allenai.org"
+            },
+            {
+                "first_name": null,
+                "full_name": "Orion Weller",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "oweller@cs.jhu.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Yanxia Qin",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "qolina@gmail.com"
+            }
+        ],
+        "description": "The 4th Workshop on Scholarly Document Processing",
+        "end_time": null,
+        "id": "The_4th_Workshop_on_Scholarly_Document_Processing",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_4th_Workshop_on_Scholarly_Document_Processing",
+        "short_name": "The_4th_Workshop_on_Scholarly_Document_Processing",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://sdproc.org/2024/",
+        "location": "TBA"
+    },
+    "The_3rd_Workshop_on_Advances_in_Language_and_Vision_Research": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Jing Gu",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UC Santa Cruz",
+                "mail": "jgu110@ucsc.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Drew A. Hudson",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Stanford University",
+                "mail": "dorarad@cs.stanford.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Asli Celikyilmaz",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Fundamentals AI Research ](FAIR)@Meta",
+                "mail": "asli@ieee.org"
+            },
+            {
+                "first_name": null,
+                "full_name": "William Yang Wang",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UC Santa Barbara",
+                "mail": "william@cs.ucsb.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Xin Eric Wang",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UC Santa Cruz",
+                "mail": "xwang366@ucsc.edu"
+            }
+        ],
+        "description": "The 3rd Workshop on Advances in Language and Vision Research",
+        "end_time": null,
+        "id": "The_3rd_Workshop_on_Advances_in_Language_and_Vision_Research",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_3rd_Workshop_on_Advances_in_Language_and_Vision_Research",
+        "short_name": "The_3rd_Workshop_on_Advances_in_Language_and_Vision_Research",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://alvr-workshop.github.io/",
+        "location": "TBA"
+    },
+    "Towards_Knowledgeable_Language_Models": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Zoey Sha Li",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UIUC",
+                "mail": "shal2@illinois.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Manling Li",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Northwestern University",
+                "mail": "manling.li@northwestern.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Michael JQ Zhang",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UT Austin",
+                "mail": "mjqzhang@utexas.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Eunsol Choi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UT Austin",
+                "mail": "eunsol@utexas.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Mor Geva",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Google Deepmind/Tel Aviv University",
+                "mail": "pipek@google.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Peter Hase",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UNC",
+                "mail": "peter@cs.unc.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Heng Ji",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UIUC & & Amazon Scholar",
+                "mail": "hengji@illinois.edu"
+            }
+        ],
+        "description": "Towards Knowledgeable Language Models",
+        "end_time": null,
+        "id": "Towards_Knowledgeable_Language_Models",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Towards_Knowledgeable_Language_Models",
+        "short_name": "Towards_Knowledgeable_Language_Models",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://knowledgeable-lm.github.io/",
+        "location": "TBA"
+    },
+    "The_4th_Wordplay:_When_Language_Meets_Games_Workshop": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Prithviraj Ammanabrolu",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UCSD",
+                "mail": "prithvi@ucsd.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Marc-Alexandre C\u00f4t\u00e9",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Microsoft Research",
+                "mail": "macote@microsoft.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Belinda Zou Li",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "MIT",
+                "mail": "bzl@mit.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Lara J. Martin",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Maryland",
+                "mail": "laramar@umbc.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Nanyun Violet Peng",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UCLA",
+                "mail": "violetpeng@cs.ucla.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Alane Suhr",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "UC Berkeley",
+                "mail": "suhr@berkeley.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ronen Tamari",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Hebrew University of Jerusalem",
+                "mail": "ronent@cs.huji.ac.il"
+            },
+            {
+                "first_name": null,
+                "full_name": "Laetitia Teodorescu",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Inria",
+                "mail": "laetitia.teodorescu@inria.fr"
+            },
+            {
+                "first_name": null,
+                "full_name": "Adam Trischler",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Microsoft Research",
+                "mail": "adam.trischler@microsoft.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Jason Weston",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Meta",
+                "mail": "jaseweston@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Xingdi Eric Yuan",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Microsoft Research",
+                "mail": "eric.yuan@microsoft.com"
+            }
+        ],
+        "description": "The 4th Wordplay: When Language Meets Games Workshop",
+        "end_time": null,
+        "id": "The_4th_Wordplay:_When_Language_Meets_Games_Workshop",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_4th_Wordplay:_When_Language_Meets_Games_Workshop",
+        "short_name": "The_4th_Wordplay:_When_Language_Meets_Games_Workshop",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://wordplay-workshop.github.io/",
+        "location": "TBA"
+    },
+    "Proposal_of_The_10th_SIGHAN_Workshop_on_Chinese_Language_Processing": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Kam-Fai Wong",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "The Chinese University of Hong Kong",
+                "mail": "kfwong@se.cuhk.edu.hk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Min Zhang",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Harbin Institute of Technology",
+                "mail": "zhangminmt@hotmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ruifeng Xu",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Harbin Institute of Technology",
+                "mail": "xuruifeng@hit.edu.cn"
+            },
+            {
+                "first_name": null,
+                "full_name": "Lin Gui",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "King\u2019s College London",
+                "mail": "Lin.1.gui@kcl.ac.uk"
+            }
+        ],
+        "description": "Proposal of The 10th SIGHAN Workshop on Chinese Language Processing",
+        "end_time": null,
+        "id": "Proposal_of_The_10th_SIGHAN_Workshop_on_Chinese_Language_Processing",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Proposal_of_The_10th_SIGHAN_Workshop_on_Chinese_Language_Processing",
+        "short_name": "Proposal_of_The_10th_SIGHAN_Workshop_on_Chinese_Language_Processing",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": null,
+        "location": "TBA"
+    },
+    "Field_Matters._The_Third_Workshop_on_NLP_Applications_to_Field_Linguistics": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Oleg Serikov",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "KAUST",
+                "mail": "oleg.serikov@kaust.edu.sa"
+            },
+            {
+                "first_name": null,
+                "full_name": "Elena Klyachko",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "HSE University",
+                "mail": "elenaklyachko@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Francis Tyers",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Indiana University",
+                "mail": "ftyers@iu.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ekaterina Vylomova",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Melbourne",
+                "mail": "evylomova@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "\u00c9ric Le Ferrand",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Boston College",
+                "mail": "leferran@bc.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ekaterina Voloshina",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "HSE University",
+                "mail": "voloshina.e.yu@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Anna Postnikova",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": null,
+                "mail": "anna.postn90@gmail.com"
+            }
+        ],
+        "description": "Field Matters. The Third Workshop on NLP Applications to Field Linguistics",
+        "end_time": null,
+        "id": "Field_Matters._The_Third_Workshop_on_NLP_Applications_to_Field_Linguistics",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Field_Matters._The_Third_Workshop_on_NLP_Applications_to_Field_Linguistics",
+        "short_name": "Field_Matters._The_Third_Workshop_on_NLP_Applications_to_Field_Linguistics",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://field-matters.github.io/2024",
+        "location": "TBA"
+    },
+    "ArabicNLP:_The_Second_Arabic_Natural_Language_Processing_Conference": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Nizar Habash",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "NYU Abu Dhabi",
+                "mail": "nizar.habash@nyu.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Houda Bouamor",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Carnegie Mellon University in Qatar",
+                "mail": "ladyhodhod@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "[Ramy Eskander](https://www.linkedin.com/in/ramyeskander/)",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Google",
+                "mail": null
+            },
+            {
+                "first_name": null,
+                "full_name": "Nadi Tomeh",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Universit\u00e9 Sorbonne Paris Nord",
+                "mail": "nadi.tomeh@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ibrahim Abu Farha",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "The University of Sheffield",
+                "mail": "i.abufarha@sheffield.ac.uk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Ahmed Abdelali",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "QCRI and HBKU",
+                "mail": "aabdelali@hbku.edu.qa"
+            },
+            {
+                "first_name": null,
+                "full_name": "Samia Touileb",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Bergen",
+                "mail": "samia.touileb@uib.no"
+            },
+            {
+                "first_name": null,
+                "full_name": "Injy Hamed",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "NYU Abu Dhabi",
+                "mail": "imh9281@nyu.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "[Yaser Onaizan](https://www.linkedin.com/in/yaser-al-onaizan-1a11294/)",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "SDAIA",
+                "mail": null
+            },
+            {
+                "first_name": null,
+                "full_name": "Salam Khalifa",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Stony Brook University",
+                "mail": "salam.khalifa@stonybrook.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Bashar Alhafni",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "NYU Abu Dhabi",
+                "mail": "alhafni@nyu.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Wissam Antoun",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "INRIA-Paris",
+                "mail": "wissam.antoun@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "[Hatem Haddad](https://www.linkedin.com/in/hatemhaddad)",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University Manouba",
+                "mail": null
+            },
+            {
+                "first_name": null,
+                "full_name": "[Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-0829/)",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Google",
+                "mail": null
+            },
+            {
+                "first_name": null,
+                "full_name": "Khalil Mrini",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "TikTok",
+                "mail": "kmrini@ucsd.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "[Rawan Almatham](https://www.linkedin.com/in/rawan-almatham/)",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "KSU ITMSC",
+                "mail": null
+            },
+            {
+                "first_name": null,
+                "full_name": "Badr AlKhamissi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "EPFL",
+                "mail": "badr@khamissi.com"
+            }
+        ],
+        "description": "ArabicNLP: The Second Arabic Natural Language Processing Conference",
+        "end_time": null,
+        "id": "ArabicNLP:_The_Second_Arabic_Natural_Language_Processing_Conference",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "ArabicNLP:_The_Second_Arabic_Natural_Language_Processing_Conference",
+        "short_name": "ArabicNLP:_The_Second_Arabic_Natural_Language_Processing_Conference",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://arabicnlp2024.sigarab.org/",
+        "location": "TBA"
+    },
+    "Natural_Language_Processing_meets_Climate_Change": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Dominik Stammbach",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "ETH Zurich",
+                "mail": "dominsta@ethz.ch"
+            },
+            {
+                "first_name": null,
+                "full_name": "Jingwei Ni",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "ETH Zurich",
+                "mail": "jingweini8_at_gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Markus Leippold",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Zurich",
+                "mail": "markus.leippold@bf.uzh.ch"
+            },
+            {
+                "first_name": null,
+                "full_name": "Tobias Schimanski",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Zurich",
+                "mail": "tobias.schimanski@bf.uzh.ch"
+            },
+            {
+                "first_name": null,
+                "full_name": "Saeid Vaghefi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Zurich",
+                "mail": "saeid.vaghefi@geo.uzh.ch"
+            },
+            {
+                "first_name": null,
+                "full_name": "Veruska Muccione",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Zurich",
+                "mail": "veruska.muccione@geo.uzh.ch"
+            },
+            {
+                "first_name": null,
+                "full_name": "Christophe Christiaen",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Oxford",
+                "mail": "christophe.christiaen@smithschool.ox.ac.uk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Alok Singh",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Oxford",
+                "mail": "alok.singh@smithschool.ox.ac.uk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Julia Bingler",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of Oxford ",
+                "mail": "julia.bingler@smithschool.ox.ac.uk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Neetu Kushwaha",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "The Alan Turing Institute",
+                "mail": "nkushwaha@turing.ac.uk"
+            },
+            {
+                "first_name": null,
+                "full_name": "Kalyan Dutia",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Climate Policy Radar",
+                "mail": "kalyan.dutia@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Mathias Kraus",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+                "mail": "mathias.kraus@fau.de"
+            }
+        ],
+        "description": "Natural Language Processing meets Climate Change",
+        "end_time": null,
+        "id": "Natural_Language_Processing_meets_Climate_Change",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "Natural_Language_Processing_meets_Climate_Change",
+        "short_name": "Natural_Language_Processing_meets_Climate_Change",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://nlp4climate.github.io/",
+        "location": "TBA"
+    },
+    "The_6th_Workshop_on_NLP_for_Conversational_AI": {
+        "anthology_venue_id": null,
+        "booklet_id": null,
+        "chairs": [],
+        "committee": [
+            {
+                "first_name": null,
+                "full_name": "Elnaz Nouri",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Microsoft Research",
+                "mail": "elnaaz@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Abhinav Rastogi",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Google Research",
+                "mail": "abhirast@google.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Georgios Spithourakis",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Entrepreneur First",
+                "mail": "geospith@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Yun-Nung (Vivian) Chen",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "National Taiwan University",
+                "mail": "yvchen@csie.ntu.edu.tw"
+            },
+            {
+                "first_name": null,
+                "full_name": "Bing Liu",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Meta AI",
+                "mail": "v.bingliu@gmail.com"
+            },
+            {
+                "first_name": null,
+                "full_name": "Yu Li",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Columbia University",
+                "mail": "yl5016@columbia.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Alon Albalak",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "University of California",
+                "mail": "alon_albalak@ucsb.edu"
+            },
+            {
+                "first_name": null,
+                "full_name": "Alexandros Papangelis",
+                "google_scholar": null,
+                "last_name": null,
+                "middle_name": null,
+                "semantic_scholar": null,
+                "affiliation": "Amazon Alexa AI",
+                "mail": "al3x.papangelis@gmail.com"
+            }
+        ],
+        "description": "The 6th Workshop on NLP for Conversational AI",
+        "end_time": null,
+        "id": "The_6th_Workshop_on_NLP_for_Conversational_AI",
+        "link": null,
+        "paper_ids": [],
+        "room": null,
+        "session": "The_6th_Workshop_on_NLP_for_Conversational_AI",
+        "short_name": "The_6th_Workshop_on_NLP_for_Conversational_AI",
+        "start_time": null,
+        "track": "Workshop",
+        "type": "Workshops",
+        "workshop_site_url": "https://sites.google.com/view/6thnlp4convai ",
+        "location": "TBA"
+    }
+}

@@ -1,13 +1,15 @@
-# EACL 2024 Virtual Conference
+# ACL 2024 Virtual Conference
 
 This virtual conference page is based on [MiniConf](http://www.mini-conf.org/) by Alexander Rush and Hendrik Strobelt.
-It was extended by the [amazing team of ACL 2020](https://github.com/acl-org/acl-2020-virtual-conference) and [amazing team of ACL 2023](https://github.com/acl-org/acl-2023-miniconf/).
-It was adapted for EMNLP 2023 by the virtual infrastructure committee.
+It was extended by the [amazing team of EACL 2024](https://github.com/entilzha/acl-miniconf), [amazing team of ACL 2023](https://github.com/acl-org/acl-2023-miniconf) and [amazing team of EMNLP2023](https://github.com/acl-org/emnlp-2023-miniconf).
+It was adapted for ACL 2024 by the virtual infrastructure committee.
 
 The website is based on [Flask](https://flask.palletsprojects.com/) and [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/). It:
 
 1. Parses conference-specific input data (e.g., TSV files downloaded from Google Sheets) into a common format.
 2. From common format data, generate a full static page site, which can be deployed easily.
+
+For ACL 2024, we also added an automatic parsing from the jenkyll ACL website in order to ease information retrieval on rush times.
 
 ## Quick Start (No Program Updates)
 

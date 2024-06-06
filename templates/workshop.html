@@ -12,8 +12,11 @@
       Organizers: 
       {% for author in workshop.committee %}
       <a href="papers.html?filter=authors&search={{author.full_name}}&program=all"
-        class="text-primary link-primary">{{author.full_name}}</a>{{
-      "," if not loop.last }}
+        class="text-primary link-primary">{{author.full_name}}</a>
+        {% if author.mail|length != 0 %}
+          <a href="mailto:{{author.mail}}"><i class="fa-solid fa-user"></i></a>
+        {% endif %}
+        {{"," if not loop.last }}
       {% endfor %}
     </h3>
     <div class="text-muted text-center">

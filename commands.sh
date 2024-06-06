@@ -6,9 +6,7 @@ source env/bin/activate
 pip install poetry
 pip install flask==2.3.1
 pip install hydra-core --upgrade
-pip install Frozen-Flask
-pip install Flask-Ext
-pip install Flask-Markdown pytz pydantic
+pip Frozen-Flask Flask-Ext Flask-Markdown pytz pydantic markdown-to-json
 
 poetry install
 
