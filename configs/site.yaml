@@ -1,0 +1,7 @@
+build: false
+data_dir: data/acl_2024
+port: 7777
+debug: true
+host: '0.0.0.0'
+out_dir: build/
+time_zone: Asia/Bangkok # times zones for configs/site.yaml are available here: https://gist.github.com/Skipants/788819

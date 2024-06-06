@@ -1,0 +1,26 @@
+[2024-06-03 17:44:05,694][werkzeug][INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7777
+ * Running on http://152.81.65.6:7777
+[2024-06-03 17:44:05,694][werkzeug][INFO] - [33mPress CTRL+C to quit[0m
+[2024-06-03 17:44:05,694][werkzeug][INFO] -  * Restarting with stat
+[2024-06-03 17:44:05,986][werkzeug][WARNING] -  * Debugger is active!
+[2024-06-03 17:44:05,992][werkzeug][INFO] -  * Debugger PIN: 138-205-339
+[2024-06-03 17:44:23,948][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:23] "[32mGET / HTTP/1.1[0m" 302 -
+[2024-06-03 17:44:24,001][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /index.html HTTP/1.1" 200 -
+[2024-06-03 17:44:24,057][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/js/typeahead.bundle.js HTTP/1.1" 200 -
+[2024-06-03 17:44:24,060][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/css/Lato.css HTTP/1.1" 200 -
+[2024-06-03 17:44:24,061][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/css/Exo.css HTTP/1.1" 200 -
+[2024-06-03 17:44:24,062][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/css/main.css HTTP/1.1" 200 -
+[2024-06-03 17:44:24,063][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/css/Cuprum.css HTTP/1.1" 200 -
+[2024-06-03 17:44:24,064][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/css/chats-modal.css HTTP/1.1" 200 -
+[2024-06-03 17:44:24,065][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/css/lazy_load.css HTTP/1.1" 200 -
+[2024-06-03 17:44:24,066][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/css/typeahead.css HTTP/1.1" 200 -
+[2024-06-03 17:44:24,066][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/js/pdf_render.js HTTP/1.1" 200 -
+[2024-06-03 17:44:24,067][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/js/lazy_load.js HTTP/1.1" 200 -
+[2024-06-03 17:44:24,069][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/js/highly-active-chats.js HTTP/1.1" 200 -
+[2024-06-03 17:44:24,069][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/images/eacl2024/acl-logo.png HTTP/1.1" 200 -
+[2024-06-03 17:44:24,125][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/images/eacl2024/header.png HTTP/1.1" 200 -
+[2024-06-03 17:44:24,131][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/css/Lato-Regular.ttf HTTP/1.1" 200 -
+[2024-06-03 17:44:24,131][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/css/Lato-Black.ttf HTTP/1.1" 200 -
+[2024-06-03 17:44:24,145][werkzeug][INFO] - 127.0.0.1 - - [03/Jun/2024 17:44:24] "GET /static/favicon/favicon-16x16.png HTTP/1.1" 200 -
